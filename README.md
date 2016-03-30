@@ -9,3 +9,7 @@
 - Excel 97-2004 (XLS BIFF8)
 - Excel 5.0/95 (XLS BIFF5)
 - OpenDocument Spreadsheet (ODS)
+
+
+### 使用
+      npm install konishileexlsx
